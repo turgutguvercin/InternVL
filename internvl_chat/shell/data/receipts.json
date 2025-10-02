@@ -1,7 +1,7 @@
 {
   "receipts_dataset": {
-    "root": "content/InternVL/internvl_chat/shell/data/receipts/",
-    "annotation": "content/InternVL/internvl_chat/shell/data/receipts/receipts_train.jsonl",
+    "root": "/content/InternVL/internvl_chat/shell/data/receipts",
+    "annotation": "/content/InternVL/internvl_chat/shell/data/receipts/receipts_train.jsonl",
     "data_augment": false,
     "max_dynamic_patch": 12,
     "repeat_time": 1,
