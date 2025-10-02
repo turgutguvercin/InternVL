@@ -1,0 +1,10 @@
+{
+  "receipts_dataset": {
+    "root": "content/InternVL/internvl_chat/shell/data/receipts/images/",
+    "annotation": "content/InternVL/internvl_chat/shell/data/receipts/receipts_converted.jsonl",
+    "data_augment": false,
+    "max_dynamic_patch": 12,
+    "repeat_time": 1,
+    "length": 1165   // number of samples in your dataset
+  }
+}
